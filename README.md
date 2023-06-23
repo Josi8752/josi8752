@@ -4,7 +4,7 @@
 - Estudante de CST em Gestão de tecnologia da Informação e sou apaixonada por desenvolvimento Front End.
 - Estudando em busca de aprendizado, recentemente concluí o curso de Formação do Desenvolvedor Moderno, pela DevSuperior, onde desenvolvemos vários desafios
 ao longo do curso, que teve duração de 1 ano. 
-Gosto de trablhar em equipe, porque acredito que dois ou mais é sempre melhor que um, para alcançar objetivos similares e estou em busca da minha grande oportunidade de estágio ou trainee.
+Gosto de trablhar em equipe, porque acredito que dois ou mais é sempre melhor que um, para alcançar objetivos similares e estou em busca da minha grande oportunidade de Trainee.
 
 - Para saber um poco mais sobre o que já sou capaz de executar, deixarei o link para o meu perfil. Ele foi criado com as tecnologias Reactjs, TypeScript, HTML e CSS.
 - ### https://profilejosianereact.netlify.app
