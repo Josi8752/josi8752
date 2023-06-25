@@ -10,7 +10,7 @@ Gosto de trablhar em equipe, porque acredito que dois ou mais é sempre melhor q
 - ### https://profilejosianereact.netlify.app
 <br>
 <br>
- <p align="center"><img width="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josi8752&layout=compact&theme=radical"></p>
+ <p align="center"><img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josi8752&layout=compact&theme=radical"></p>
    
 ## Social network
 <a href="josianesouza8752@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="103"></a>
