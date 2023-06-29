@@ -13,5 +13,5 @@ Gosto de trablhar em equipe, porque acredito que dois ou mais é sempre melhor q
  <p align="center"><img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josi8752&layout=compact&theme=radical"></p>
    
 ## Social network
-<a href="josianesouza8752@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="103"></a>
+<a href="https://mail.google.com/mail/u/0/#inbox?compose=new"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="103"></a>
 <a href="linkedin.com/in/josiane-s-6b66a2202"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" width="130"> </a>
