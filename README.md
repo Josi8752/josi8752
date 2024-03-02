@@ -1,14 +1,7 @@
 ### <h1 align="center"> Oi, eu sou a Josiane Silva! <img src= "https://github.com/Josi8752/josi8752/assets/98353328/413bd1f5-c504-4393-bd5a-6fb26dda5d25" width= "30"></h1>
 
+Sou uma profissional apaixonada pela interseção entre tecnologia e gestão, com formação em Gestão de Tecnologia da Informação e pós-graduação em Inteligência Artificial em andamento. Com forte base acadêmica em desenvolvimento web e conhecimento abrangente em linguagens como HTML, CSS, Java, JavaScript e TypeScript, etc, sou capaz de criar soluções inovadoras e eficientes. Além disso, tenho conhecimeto com frameworks como ReactJS e Spring Boot, proporcionando uma base sólida para o desenvolvimento de aplicações web e mobile de alta qualidade. Tenho habilidade em trabalhar com bancos de dados e estou sempre em busca de aprimorar minhas competências técnicas e acompanhar as tendências da indústria. Estou entusiasmada para a minha grande oportunidade e contribuir com projetos desafiadores, colaborando com equipes talentosas.
 
-- Estudante de CST em Gestão de tecnologia da Informação, apaixonada por tecnologia e desenvolvimento web.
-- Estudando em busca de aprendizado, recentemente concluí o curso de Formação do Desenvolvedor Moderno, pela DevSuperior, onde desenvolvemos vários desafios
-ao longo do curso, que teve duração de 1 ano. 
-Gosto de trablhar em equipe, porque acredito que dois ou mais é sempre melhor que um, para alcançar objetivos similares. Estou em busca da minha grande oportunidade de Trainee.
-
-- Para saber um poco mais sobre o que já sou capaz de executar, deixarei o link para a minha carta de apresentação. Ela foi desenvolvida com as tecnologias Reactjs, TypeScript, HTML e CSS.
-- ### https://profileportfoliojosianesilva.netlify.app/
-<br>
 <br>
  <p align="center"><img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josi8752&layout=compact&theme=radical"></p>
    
