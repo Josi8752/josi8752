@@ -9,4 +9,4 @@ Tenho habilidade em trabalhar com Banco de Dados e estou sempre em busca de apri
    
 ## Social network
 <a href="https://mail.google.com/mail/u/0/#inbox?compose=new"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="103"></a>
-<a href="linkedin.com/in/josianepracarreiras-s/"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" width="130"> </a>
+<a href="linkedin.com/in/josianepracarreiras-s"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" width="130"> </a>
