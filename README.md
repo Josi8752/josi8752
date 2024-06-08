@@ -4,7 +4,9 @@ Sou uma profissional apaixonada pela interseção entre tecnologia e gestão, co
 Tenho habilidade em trabalhar com Banco de Dados e estou sempre em busca de aprimorar minhas competências técnicas e acompanhar as tendências da indústria. Estou entusiasmada para iniciar minha grande oportunidade e contribuir com projetos desafiadores, colaborando com equipes talentosas. Relacionamento interpessoal, automotivação, trabalho em equipe e disponibidade para aprender, fazem parte do meu perfil. 
 
 <br>
+
 I am a professional passionate about the intersection between technology and management, with a degree in Information Technology Management and a postgraduate degree in Artificial Intelligence. With a strong academic base in web development and comprehensive knowledge in languages ​​such as HTML, CSS, Java, JavaScript and TypeScript, etc., I am capable of creating innovative and efficient solutions. Furthermore, I have knowledge of frameworks such as ReactJS and Spring Boot, providing a solid foundation for developing high-quality web and mobile applications. I have the ability to work with Databases and I am always looking to improve my technical skills and keep up with industry trends. I'm excited to start my big opportunity and contribute to challenging projects, collaborating with talented teams. Interpersonal relationships, self-motivation, teamwork and willingness to learn are part of my profile.
+
 <br>
  <p align="center"><img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josi8752&layout=compact&theme=radical"></p>
    
