@@ -49,5 +49,5 @@ I like working in a team, I know how to be flexible and empathetic.
 ## Used Languages
  
  <br>
- <p align="center"><img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josi8752&layout=compact&theme=radical"></p>
+ <p align="center"><img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josi8752&layout=donut&theme=radical"></p>
 
