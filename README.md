@@ -1,4 +1,4 @@
-# 🌐💻 Hello World! I'm Josiane Silva. 
+# 🌐💻 Hello World! I'm Josiane S. 
 
 
 Passionate about the intersection between technology and management.
