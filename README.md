@@ -11,15 +11,9 @@ Learning English.
 
 I like working in a team, I know how to be flexible and empathetic.
 
-
-
 <br>
 <div style="display: inline_block" align="center">
 <a href="https://github.com/Josi8752">
-  
-
- ![Josiane GitHub stats](https://github-readme-stats.vercel.app/api?username=josi8752&theme=tokyonight&show_icons=true&layout=compact&hide=stars,prs,issues,contribs)
- 
  <br> 
 </div>
 
@@ -35,12 +29,6 @@ I like working in a team, I know how to be flexible and empathetic.
 
 ## Social network
 <a href="https://mail.google.com/mail/u/0/#inbox?compose=new"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="103"></a>
-<a href="https://www.linkedin.com/in/josianepracarreiras-s/"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" width="130"></a>
+<a href="https://www.linkedin.com/in/josianepracarreiras-s/"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" width="103"></a>
 
 <br>
-
-## Used Languages
- 
- <br>
- <p align="center"><img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josi8752&layout=donut&theme=radical"></p>
-
