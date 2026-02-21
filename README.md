@@ -5,7 +5,7 @@ Passionate about the intersection between technology and management.
 
 Graduated in Information Technology Management and postgraduate in Artificial Intelligence.
 
-Currently studying the 5th period of Systems Analysis and Development.
+Currently studying the 2th period of Accounting Sciences.
 
 Learning English.
 
